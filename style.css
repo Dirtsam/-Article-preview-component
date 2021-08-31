@@ -56,7 +56,7 @@ img {
   } */
   .container {
     width: min(80%, 720px);
-    margin-top: 180px;
+    margin-top: 220px;
   }
   .split {
     flex-direction: row;
